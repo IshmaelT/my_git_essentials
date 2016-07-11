@@ -1,0 +1,15 @@
+Endpoint=sb://sb20532ishmael.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0uWBmYbMPgoAYrDjexX1i/AcqOWe7Zh9jtpvKyf3ZIk=
+
+
+40.74.90.200
+
+Caho1974
+
+Tolu2860
+
+Server=tcp:sp20532ishmael.database.windows.net,1433;Data Source=sp20532ishmael.database.windows.net;Initial Catalog=dp20532ishmael;Persist Security Info=False;User ID=testuser;Password=TestPa$$w0rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+DefaultEndpointsProtocol=https;AccountName=sp20532ishmael;AccountKey=fO2wZPS/beG/Ktf5a5mYNcr0/tty1LD7fjrJk12eFl+KTD3HoRb6803gQYmkXuxfv5zu0ya2FLl+g0JaQGiWsA==
+fO2wZPS/beG/Ktf5a5mYNcr0/tty1LD7fjrJk12eFl+KTD3HoRb6803gQYmkXuxfv5zu0ya2FLl+g0JaQGiWsA==
+
+Endpoint=sb://sp20532ishmael.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=RDCqEm2WvwG06Mr7TWCwurn6jldyxDu8tOVPEqhUQcw=
